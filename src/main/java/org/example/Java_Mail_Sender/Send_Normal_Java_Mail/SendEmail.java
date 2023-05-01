@@ -1,7 +1,10 @@
+package org.example.Java_Mail_Sender.Send_Normal_Java_Mail;
+
 import javax.activation.*;
 import javax.mail.*;
 import javax.mail.internet.*;
 import java.util.Properties;
+
 public class SendEmail
 {
  public static void main(String [] args){

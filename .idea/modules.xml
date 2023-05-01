@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java mail sender/Java mail sender.iml" filepath="$PROJECT_DIR$/Java mail sender/Java mail sender.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java mail sender/Java mail sender using gmail API/Java mail sender using gmail API.iml" filepath="$PROJECT_DIR$/Java mail sender/Java mail sender using gmail API/Java mail sender using gmail API.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java mail sender/Send normal java mail/Send normal java mail.iml" filepath="$PROJECT_DIR$/Java mail sender/Send normal java mail/Send normal java mail.iml" />
     </modules>
   </component>
 </project>
