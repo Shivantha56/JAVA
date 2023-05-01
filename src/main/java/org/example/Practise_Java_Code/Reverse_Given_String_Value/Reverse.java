@@ -1,7 +1,20 @@
-package org.example.Practise_Java_Code.ReverseGivenStrinValue;
+package org.example.Practise_Java_Code.Reverse_Given_String_Value;
+
+import java.util.Scanner;
 
 public class Reverse {
     public static void main(String args[]){
+
+        //We can use scanner Class for implement this task
+        //Please try your self
+
+//        Scanner scan = new Scanner(System.in);
+//
+//        System.out.print("Enter inout 01 :");
+//        String scan1 = scan.next();
+//
+//        System.out.print("Enter inout 02 :");
+//        String scan2 = scan.next();
 
 
         String a = reverse("GOD");
